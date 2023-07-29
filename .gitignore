@@ -6,6 +6,3 @@
 *.iml
 out
 gen
-examples/
-examples
-/examples
